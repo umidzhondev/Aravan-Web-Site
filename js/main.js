@@ -20,3 +20,4 @@ navLinks.forEach(link => {
 
 
 document.querySelector("#date").textContent = new Date().getFullYear();
+
